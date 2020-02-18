@@ -1,0 +1,10 @@
+# DIRECTORY_NAME 	FILE_MASK 	BACKUP_DEPTH_IN_DAYS
+e6696b43-6fa7-4207-b21d-865731f80093/freedom 	* 	60
+e6696b43-6fa7-4207-b21d-865731f80093/srv-fs01/shares 	shares*_Diff.7z 	1
+e6696b43-6fa7-4207-b21d-865731f80093/srv-fs01/shares 	shares*_Full.7z 	45
+e6696b43-6fa7-4207-b21d-865731f80093/pto_files   *(Full).7z      20
+e6696b43-6fa7-4207-b21d-865731f80093/pto_files   *(Differential).7z      1
+e6696b43-6fa7-4207-b21d-865731f80093/pto_files   *.bak   3
+0215faca-a9e0-4ea9-9db6-43857b20abed/mailstorage	*_full_*.tbz	20
+0215faca-a9e0-4ea9-9db6-43857b20abed/mailstorage	*_diff_*.tbz	3
+0215faca-a9e0-4ea9-9db6-43857b20abed/ESXi	*.img	1095

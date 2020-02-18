@@ -1,0 +1,8 @@
+LIST_FILE=/root/sync/resources.lst # resources to sync
+BACKUP_DIR=/media # base directory with backup files
+TMP_DIR=/tmp/links_tmp # empty directory for temporary files
+SYNC_LOCALDIR=$TMP_DIR # local directory for synchronization, usually the same as TMP_DIR
+SYNC_REMOTEDIR="/Backup/"     # remote directory for synchronization
+FTP_HOST="192.168.0.17"
+FTP_USER="NAS"
+FTP_PASS="********"
